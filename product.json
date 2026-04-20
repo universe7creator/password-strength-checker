@@ -1,0 +1,17 @@
+{
+  "name": "Password Strength Checker Pro",
+  "slug": "password-strength-checker",
+  "tagline": "Analyze password strength in real-time. Check entropy, crack time estimates, and get actionable security recommendations.",
+  "description": "Analyze password strength in real-time. Check entropy, crack time estimates, and get actionable security recommendations.",
+  "price": "9",
+  "features": [],
+  "tech_stack": "Vercel + Node.js",
+  "status": "building",
+  "vercel_url": null,
+  "github_url": null,
+  "lemonsqueezy_checkout_url": null,
+  "lemonsqueezy_product_id": null,
+  "webhook_url": null,
+  "created_cycle": null,
+  "deployed_cycle": null
+}

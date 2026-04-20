@@ -1,0 +1,14 @@
+{
+  "name": "password-strength-checker",
+  "version": "1.0.0",
+  "description": "Analyze password strength in real-time. Check entropy, crack time estimates, and get actionable security recommendations.",
+  "main": "api/process.js",
+  "scripts": {
+    "dev": "node dev-server.js",
+    "vercel-build": "echo 'Build complete'"
+  },
+  "dependencies": {},
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
