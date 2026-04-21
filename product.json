@@ -6,12 +6,12 @@
   "price": "9",
   "features": [],
   "tech_stack": "Vercel + Node.js",
-  "status": "building",
-  "vercel_url": null,
-  "github_url": null,
+  "status": "live",
+  "vercel_url": "https://password-strength-checker-o6lhayyk7-madnessqws-projects.vercel.app",
+  "github_url": "https://github.com/universe7creator/password-strength-checker",
   "lemonsqueezy_checkout_url": null,
   "lemonsqueezy_product_id": null,
   "webhook_url": null,
   "created_cycle": null,
-  "deployed_cycle": null
+  "deployed_cycle": 975
 }
